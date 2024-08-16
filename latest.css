@@ -56,7 +56,7 @@
 /* body */
 body{
     background: url(image/bg.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
 }
 .box{
